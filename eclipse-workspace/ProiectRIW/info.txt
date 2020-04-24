@@ -1,0 +1,8 @@
+Stack Overflow - Where Developers Learn, Share, & Build Careers.html--->indexDirect.json
+Pointers - C++ Tutorials.html--->indexDirect.json
+Functions - C++ Tutorials.html--->indexDirect.json
+Dynamic memory - C++ Tutorials.html--->indexDirect.json
+Constants - C++ Tutorials.html--->indexDirect.json
+Polymorphism - C++ Tutorials.html--->indexDirect.json
+Classes (II) - C++ Tutorials.html--->indexDirect.json
+Classes (I) - C++ Tutorials.html--->indexDirect.json
